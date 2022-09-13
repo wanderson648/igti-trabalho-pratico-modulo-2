@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">TrabalhoPratico</string>
+    <string name="app_name"></string>
+    <string name="user_name">Name:</string>
+    <string name="cadastro_nome">Dev\'s name</string>
+    <string name="background_tela_2">background-tela-2</string>
+    <string name="error">Por favor, informe o seu nome.</string>
 </resources>
