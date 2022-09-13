@@ -1,5 +1,5 @@
 
-# Trabalho Prático
+# Trabalho Prático - IGTI
 
 Módulo 2: Desenvolvimento Android com Kotlin
 
@@ -26,3 +26,6 @@ nome;</li>
 passar o nome inserido na primeira tela e apresentá-lo na segunda tela.</li>
   </ul>
 </ol>
+<br><br>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/62625309/189977070-7f1f0b1b-1b5c-4490-8654-7032cd6592cf.gif)
